@@ -1,0 +1,13 @@
+# Our First Markdown-File
+
+Markdown is a simple text file format to write structured text
+
+## Basic Comands
+
+- Types of Headlines
+  - Two Hashes do a second level headline
+  - Three Hashes: guess what
+
+### Third Level
+
+We do not know what to write here ...
